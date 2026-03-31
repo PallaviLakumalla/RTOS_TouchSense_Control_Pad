@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/73d2e0a5-16f1-47d4-a020-dbebd119716c" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0ff22b0e-8fbf-43cf-891d-0c94c91e7b5c" /># RTOS-Based Touch Sense Control System (STM32 + FreeRTOS)
+# RTOS-Based Touch Sense Control System (STM32 + FreeRTOS)
 
 ##  Project Overview
 
@@ -8,6 +8,7 @@ Each operating mode activates a dedicated task responsible for controlling LED b
 
 This project highlights core RTOS concepts such as multitasking, synchronization, interrupt handling, and event-driven execution.
 
+<img width="1536" height="1024" alt="system_architecture" src="https://github.com/user-attachments/assets/873d69ab-49fb-42fe-b295-719661fc7733" />
 
 ##  Key Features
 
