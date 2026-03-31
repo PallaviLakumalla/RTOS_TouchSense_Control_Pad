@@ -1,4 +1,4 @@
-# RTOS-Based Touch Sense Control System (STM32 + FreeRTOS)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/73d2e0a5-16f1-47d4-a020-dbebd119716c" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0ff22b0e-8fbf-43cf-891d-0c94c91e7b5c" /># RTOS-Based Touch Sense Control System (STM32 + FreeRTOS)
 
 ##  Project Overview
 
