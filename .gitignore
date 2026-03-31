@@ -1,0 +1,14 @@
+# Build files
+Debug/
+Release/
+build/
+
+# STM32CubeIDE
+.settings/
+.metadata/
+
+# OS files
+*.log
+*.tmp
+*.bak
+.DS_Store
