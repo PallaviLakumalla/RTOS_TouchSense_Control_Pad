@@ -30,10 +30,10 @@ This project highlights core RTOS concepts such as multitasking, synchronization
 * USB-to-Serial converter
 
 ##  System Operating Modes
-Emergency Mode → High priority LED control
-* Task1 → LED toggle (500 ms)
-* Task2 → LED toggle (1000 ms)
-* Task3 → LED toggle (1500 ms)
+Emergency Mode → High priority LED control 
+* Task1 (SensorTask) → LED toggle (500 ms)
+* Task2 (ProcessingTask)→ LED toggle (1000 ms)
+* Task3 (OutputTask) → LED toggle (1500 ms)
 
 Only one task runs at a time.
 
