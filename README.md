@@ -151,13 +151,17 @@ Task Scheduling (Resume/Suspend)
 ↓
 LED Output Action
 
-##  Output
+##  Output Description
 
-* LEDs toggle based on selected mode
-* UART displays current system status
-* Task switching observed in real-time
+* LEDs toggle based on selected mode using RTOS tasks
+* Emergency mode overrides all tasks
+* UART displays real-time system status and task information
 
+##  Future Improvements
 
+* Add sensor calibration
+* Integrate LCD display
+* Add mobile app interface for control
 
 
 ##  Learning Outcomes
