@@ -151,6 +151,13 @@ Task Scheduling (Resume/Suspend)
 ↓
 LED Output Action
 
+##  Output
+
+* LEDs toggle based on selected mode
+* UART displays current system status
+* Task switching observed in real-time
+
+
 
 
 ##  Learning Outcomes
