@@ -8,7 +8,8 @@ Each operating mode activates a dedicated task responsible for controlling LED b
 
 This project highlights core RTOS concepts such as multitasking, synchronization, interrupt handling, and event-driven execution.
 
-<img width="1536" height="1024" alt="system_architecture" src="https://github.com/user-attachments/assets/873d69ab-49fb-42fe-b295-719661fc7733" />
+<img width="1536" height="1024" alt="flow diagram" src="https://github.com/user-attachments/assets/bb00a95c-86cb-4db9-bee8-f94f7b6c2e11" />
+
 
 ##  Key Features
 
